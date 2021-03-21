@@ -30,6 +30,21 @@ yarn install
 yarn dev
 ```
 
+## Deploy and testing with Facebook Sharing Debugger
+
+### Deploy to vercel
+
+```sh
+yarn build
+vercel dist
+```
+
+### Debugging with Facebook Sharing Debugger
+
+- Get the deployment link from vercel and test, e.g: https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Freact-seo-demo-dunghd.vercel.app%2F
+
+![screenshot.png](./screenshot.png)
+
 ## Author
 
 👤 **Dung Huynh (dunghd.it@gmail.com)**
