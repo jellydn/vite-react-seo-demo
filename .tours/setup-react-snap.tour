@@ -1,0 +1,42 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "setup react-snap",
+  "steps": [
+    {
+      "file": "package.json",
+      "description": "Install react-snap package",
+      "line": 27
+    },
+    {
+      "file": "package.json",
+      "description": "Setup custom \"output\" folder. React-snap looking for \"build\" folder by default setting.",
+      "line": 11
+    },
+    {
+      "file": "package.json",
+      "description": "Setup postbuild - will hydrate code base on the build/dist folder",
+      "line": 8,
+      "selection": {
+        "start": {
+          "line": 8,
+          "character": 2
+        },
+        "end": {
+          "line": 9,
+          "character": 1
+        }
+      }
+    },
+    {
+      "file": "src/main.tsx",
+      "description": "Import `hydrate` and `render` from react-dom",
+      "line": 2
+    },
+    {
+      "file": "src/main.tsx",
+      "description": "Run hydrate process if DOM element is exist\n- This is the case when we run `yarn build` and react-snap will use `puppeteer` to scrawl the HTML code and pre-render html page.",
+      "line": 8
+    }
+  ],
+  "ref": "main"
+}

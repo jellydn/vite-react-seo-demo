@@ -1,0 +1,22 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "implement SEO per page",
+  "steps": [
+    {
+      "file": "src/App.tsx",
+      "description": "Import react-helmet",
+      "line": 2
+    },
+    {
+      "file": "src/App.tsx",
+      "description": "Add metadata for Counter page",
+      "line": 22
+    },
+    {
+      "file": "src/App.tsx",
+      "description": "Add default metadata information for homepage",
+      "line": 50
+    }
+  ],
+  "ref": "main"
+}

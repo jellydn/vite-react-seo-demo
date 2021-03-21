@@ -1,0 +1,22 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "add simple routes for multi-page",
+  "steps": [
+    {
+      "file": "package.json",
+      "description": "Add @reach/router package",
+      "line": 14
+    },
+    {
+      "file": "package.json",
+      "description": "We also need @types/reach__router if you are working with TypeScript",
+      "line": 22
+    },
+    {
+      "file": "src/App.tsx",
+      "description": "Add 2 routes to our demo:\n - \"/\" -> Home page\n - \"/counter\" -> Counter page",
+      "line": 64
+    }
+  ],
+  "ref": "main"
+}
