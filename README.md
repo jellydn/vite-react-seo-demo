@@ -4,7 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Simple React SEO Demoo
+> Simple React SEO Demo
+
+[![Implement SEO with React](https://img.youtube.com/vi/yVw7ryEqiuI/0.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 ### 🏠 [Homepage](https://react-seo-demo-dunghd.vercel.app/)
 
