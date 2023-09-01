@@ -1563,10 +1563,10 @@ safe-buffer@~5.2.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sakura.css@1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/sakura.css/-/sakura.css-1.3.1.tgz#90f03dd20d6bd2500fc12a11e8105ce183c176e8"
-  integrity sha512-J1Lj9yrAAs8OMseVDTIJPh5BxhZZEUz2VKkzj1u4HgjljVnIvVbCEfJKzjWolJTIs8SCxZ0murVJg0Ah7kK/yw==
+sakura.css@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/sakura.css/-/sakura.css-1.5.0.tgz#f73cd825fd86dcdc93d6208bc8f55d10104cfab4"
+  integrity sha512-AcAZa9F4SCs2xaKLWcXQxJxKfeod2PN3sR31+R22MKuyoJxNChH1wBG4mQaY9gVpJ3VpNA1XHPOrOM9hFo9cSw==
 
 scheduler@^0.22.0:
   version "0.22.0"
